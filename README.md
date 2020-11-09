@@ -1,2 +1,2 @@
-# Hello-There
-Intro to Data Science - iXperience
+COMPAS-Recidivism-RawScores
+The algorithm for recidivism risk in racially biased
